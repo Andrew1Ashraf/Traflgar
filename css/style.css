@@ -144,7 +144,7 @@ nav
 
 header
 {
-    background-image: url(../images/element.svg);
+    background-image: url('../images/element.svg);
     background-repeat: no-repeat;
     background-position:left 20%;
 }
